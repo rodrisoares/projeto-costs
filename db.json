@@ -1,0 +1,112 @@
+{
+  "projects": [
+    {
+      "name": "Projeto de Infra",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Contratar um DevOps",
+          "cost": "5000",
+          "description": "DevOps para criar projeto na AWS",
+          "id": "79475653-9d65-4eb0-921b-9b12b6c6be52"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "desenvolvimento site",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "equipe de desenvolvedores",
+          "cost": "500",
+          "description": "contratação da equipe de  desenvolvedores",
+          "id": "114a2016-1096-40b5-9488-8e24e72faa99"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "design do site",
+      "budget": "200",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 50,
+      "services": [
+        {
+          "name": "contratar web design",
+          "description": "contratar equipe de web design",
+          "cost": "50",
+          "id": "25a0df83-630d-48e0-867c-28fbb118aa29"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "planejamento do sistema",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "planejamento de desenvolvimento do sistema",
+          "cost": "5000",
+          "description": "contratação de equipes de produtos",
+          "id": "cf3bd948-8579-4e90-9bae-fdcdf60f9326"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "teste",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "teste2",
+          "cost": "100",
+          "description": "teste",
+          "id": "a453b46e-054e-46b0-8f49-3aa969b8148e"
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
